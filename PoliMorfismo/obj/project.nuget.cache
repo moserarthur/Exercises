@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "cmwSWIAzY89kBAivS2IGtQCs8xswbE5vuMTR6ZoQR7iSZ238GTYWx2b9iDiyiU5fSqk5r9dtOvIGOjwB9FXlrg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Raque\\Documents\\Fundamentos\\Fundamentos\\PoliMorfismo\\PoliMorfismo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Raque\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Raque\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Raque\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Raque\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

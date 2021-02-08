@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\Fundamentos\ExercicioManipulandoTextos\bin\Debug\netcoreapp3.0\ExercicioManipulandoTextos.exe
+C:\Users\Acer\source\repos\Fundamentos\ExercicioManipulandoTextos\bin\Debug\netcoreapp3.0\ExercicioManipulandoTextos.deps.json
+C:\Users\Acer\source\repos\Fundamentos\ExercicioManipulandoTextos\bin\Debug\netcoreapp3.0\ExercicioManipulandoTextos.runtimeconfig.json
+C:\Users\Acer\source\repos\Fundamentos\ExercicioManipulandoTextos\bin\Debug\netcoreapp3.0\ExercicioManipulandoTextos.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\Fundamentos\ExercicioManipulandoTextos\bin\Debug\netcoreapp3.0\ExercicioManipulandoTextos.dll
+C:\Users\Acer\source\repos\Fundamentos\ExercicioManipulandoTextos\bin\Debug\netcoreapp3.0\ExercicioManipulandoTextos.pdb
+C:\Users\Acer\source\repos\Fundamentos\ExercicioManipulandoTextos\obj\Debug\netcoreapp3.0\ExercicioManipulandoTextos.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Fundamentos\ExercicioManipulandoTextos\obj\Debug\netcoreapp3.0\ExercicioManipulandoTextos.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Fundamentos\ExercicioManipulandoTextos\obj\Debug\netcoreapp3.0\ExercicioManipulandoTextos.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Fundamentos\ExercicioManipulandoTextos\obj\Debug\netcoreapp3.0\ExercicioManipulandoTextos.dll
+C:\Users\Acer\source\repos\Fundamentos\ExercicioManipulandoTextos\obj\Debug\netcoreapp3.0\ExercicioManipulandoTextos.pdb

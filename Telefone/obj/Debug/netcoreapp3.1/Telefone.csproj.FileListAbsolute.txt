@@ -1,0 +1,13 @@
+C:\Users\Raque\Documents\Fundamentos\Fundamentos\Telefone\bin\Debug\netcoreapp3.1\Telefone.exe
+C:\Users\Raque\Documents\Fundamentos\Fundamentos\Telefone\bin\Debug\netcoreapp3.1\Telefone.deps.json
+C:\Users\Raque\Documents\Fundamentos\Fundamentos\Telefone\bin\Debug\netcoreapp3.1\Telefone.runtimeconfig.json
+C:\Users\Raque\Documents\Fundamentos\Fundamentos\Telefone\bin\Debug\netcoreapp3.1\Telefone.runtimeconfig.dev.json
+C:\Users\Raque\Documents\Fundamentos\Fundamentos\Telefone\bin\Debug\netcoreapp3.1\Telefone.dll
+C:\Users\Raque\Documents\Fundamentos\Fundamentos\Telefone\bin\Debug\netcoreapp3.1\Telefone.pdb
+C:\Users\Raque\Documents\Fundamentos\Fundamentos\Telefone\obj\Debug\netcoreapp3.1\Telefone.csprojAssemblyReference.cache
+C:\Users\Raque\Documents\Fundamentos\Fundamentos\Telefone\obj\Debug\netcoreapp3.1\Telefone.AssemblyInfoInputs.cache
+C:\Users\Raque\Documents\Fundamentos\Fundamentos\Telefone\obj\Debug\netcoreapp3.1\Telefone.AssemblyInfo.cs
+C:\Users\Raque\Documents\Fundamentos\Fundamentos\Telefone\obj\Debug\netcoreapp3.1\Telefone.csproj.CoreCompileInputs.cache
+C:\Users\Raque\Documents\Fundamentos\Fundamentos\Telefone\obj\Debug\netcoreapp3.1\Telefone.dll
+C:\Users\Raque\Documents\Fundamentos\Fundamentos\Telefone\obj\Debug\netcoreapp3.1\Telefone.pdb
+C:\Users\Raque\Documents\Fundamentos\Fundamentos\Telefone\obj\Debug\netcoreapp3.1\Telefone.genruntimeconfig.cache

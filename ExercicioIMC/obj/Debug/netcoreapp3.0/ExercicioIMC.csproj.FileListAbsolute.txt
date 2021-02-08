@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\Fundamentos\ExercicioIMC\bin\Debug\netcoreapp3.0\ExercicioIMC.exe
+C:\Users\Acer\source\repos\Fundamentos\ExercicioIMC\bin\Debug\netcoreapp3.0\ExercicioIMC.deps.json
+C:\Users\Acer\source\repos\Fundamentos\ExercicioIMC\bin\Debug\netcoreapp3.0\ExercicioIMC.runtimeconfig.json
+C:\Users\Acer\source\repos\Fundamentos\ExercicioIMC\bin\Debug\netcoreapp3.0\ExercicioIMC.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\Fundamentos\ExercicioIMC\bin\Debug\netcoreapp3.0\ExercicioIMC.dll
+C:\Users\Acer\source\repos\Fundamentos\ExercicioIMC\bin\Debug\netcoreapp3.0\ExercicioIMC.pdb
+C:\Users\Acer\source\repos\Fundamentos\ExercicioIMC\obj\Debug\netcoreapp3.0\ExercicioIMC.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Fundamentos\ExercicioIMC\obj\Debug\netcoreapp3.0\ExercicioIMC.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Fundamentos\ExercicioIMC\obj\Debug\netcoreapp3.0\ExercicioIMC.dll
+C:\Users\Acer\source\repos\Fundamentos\ExercicioIMC\obj\Debug\netcoreapp3.0\ExercicioIMC.pdb
+C:\Users\Acer\source\repos\Fundamentos\ExercicioIMC\obj\Debug\netcoreapp3.0\ExercicioIMC.csprojAssemblyReference.cache

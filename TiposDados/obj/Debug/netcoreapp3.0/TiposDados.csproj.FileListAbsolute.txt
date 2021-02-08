@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\Fundamentos\TiposDados\bin\Debug\netcoreapp3.0\TiposDados.exe
+C:\Users\Acer\source\repos\Fundamentos\TiposDados\bin\Debug\netcoreapp3.0\TiposDados.deps.json
+C:\Users\Acer\source\repos\Fundamentos\TiposDados\bin\Debug\netcoreapp3.0\TiposDados.runtimeconfig.json
+C:\Users\Acer\source\repos\Fundamentos\TiposDados\bin\Debug\netcoreapp3.0\TiposDados.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\Fundamentos\TiposDados\bin\Debug\netcoreapp3.0\TiposDados.dll
+C:\Users\Acer\source\repos\Fundamentos\TiposDados\bin\Debug\netcoreapp3.0\TiposDados.pdb
+C:\Users\Acer\source\repos\Fundamentos\TiposDados\obj\Debug\netcoreapp3.0\TiposDados.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Fundamentos\TiposDados\obj\Debug\netcoreapp3.0\TiposDados.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Fundamentos\TiposDados\obj\Debug\netcoreapp3.0\TiposDados.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Fundamentos\TiposDados\obj\Debug\netcoreapp3.0\TiposDados.dll
+C:\Users\Acer\source\repos\Fundamentos\TiposDados\obj\Debug\netcoreapp3.0\TiposDados.pdb

@@ -1,0 +1,13 @@
+C:\Users\Raque\Documents\Fundamentos\Fundamentos\Perguntas\PerguntasApp\PerguntasApp\bin\Debug\netcoreapp3.1\PerguntasApp.exe
+C:\Users\Raque\Documents\Fundamentos\Fundamentos\Perguntas\PerguntasApp\PerguntasApp\bin\Debug\netcoreapp3.1\PerguntasApp.deps.json
+C:\Users\Raque\Documents\Fundamentos\Fundamentos\Perguntas\PerguntasApp\PerguntasApp\bin\Debug\netcoreapp3.1\PerguntasApp.runtimeconfig.json
+C:\Users\Raque\Documents\Fundamentos\Fundamentos\Perguntas\PerguntasApp\PerguntasApp\bin\Debug\netcoreapp3.1\PerguntasApp.runtimeconfig.dev.json
+C:\Users\Raque\Documents\Fundamentos\Fundamentos\Perguntas\PerguntasApp\PerguntasApp\bin\Debug\netcoreapp3.1\PerguntasApp.dll
+C:\Users\Raque\Documents\Fundamentos\Fundamentos\Perguntas\PerguntasApp\PerguntasApp\bin\Debug\netcoreapp3.1\PerguntasApp.pdb
+C:\Users\Raque\Documents\Fundamentos\Fundamentos\Perguntas\PerguntasApp\PerguntasApp\obj\Debug\netcoreapp3.1\PerguntasApp.csprojAssemblyReference.cache
+C:\Users\Raque\Documents\Fundamentos\Fundamentos\Perguntas\PerguntasApp\PerguntasApp\obj\Debug\netcoreapp3.1\PerguntasApp.AssemblyInfoInputs.cache
+C:\Users\Raque\Documents\Fundamentos\Fundamentos\Perguntas\PerguntasApp\PerguntasApp\obj\Debug\netcoreapp3.1\PerguntasApp.AssemblyInfo.cs
+C:\Users\Raque\Documents\Fundamentos\Fundamentos\Perguntas\PerguntasApp\PerguntasApp\obj\Debug\netcoreapp3.1\PerguntasApp.dll
+C:\Users\Raque\Documents\Fundamentos\Fundamentos\Perguntas\PerguntasApp\PerguntasApp\obj\Debug\netcoreapp3.1\PerguntasApp.pdb
+C:\Users\Raque\Documents\Fundamentos\Fundamentos\Perguntas\PerguntasApp\PerguntasApp\obj\Debug\netcoreapp3.1\PerguntasApp.csproj.CoreCompileInputs.cache
+C:\Users\Raque\Documents\Fundamentos\Fundamentos\Perguntas\PerguntasApp\PerguntasApp\obj\Debug\netcoreapp3.1\PerguntasApp.genruntimeconfig.cache

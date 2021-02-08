@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\Fundamentos\LacosRepeticao\bin\Debug\netcoreapp3.0\LacosRepeticao.exe
+C:\Users\Acer\source\repos\Fundamentos\LacosRepeticao\bin\Debug\netcoreapp3.0\LacosRepeticao.deps.json
+C:\Users\Acer\source\repos\Fundamentos\LacosRepeticao\bin\Debug\netcoreapp3.0\LacosRepeticao.runtimeconfig.json
+C:\Users\Acer\source\repos\Fundamentos\LacosRepeticao\bin\Debug\netcoreapp3.0\LacosRepeticao.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\Fundamentos\LacosRepeticao\bin\Debug\netcoreapp3.0\LacosRepeticao.dll
+C:\Users\Acer\source\repos\Fundamentos\LacosRepeticao\bin\Debug\netcoreapp3.0\LacosRepeticao.pdb
+C:\Users\Acer\source\repos\Fundamentos\LacosRepeticao\obj\Debug\netcoreapp3.0\LacosRepeticao.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Fundamentos\LacosRepeticao\obj\Debug\netcoreapp3.0\LacosRepeticao.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Fundamentos\LacosRepeticao\obj\Debug\netcoreapp3.0\LacosRepeticao.dll
+C:\Users\Acer\source\repos\Fundamentos\LacosRepeticao\obj\Debug\netcoreapp3.0\LacosRepeticao.pdb
+C:\Users\Acer\source\repos\Fundamentos\LacosRepeticao\obj\Debug\netcoreapp3.0\LacosRepeticao.csprojAssemblyReference.cache

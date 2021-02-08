@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\Fundamentos\PoliMorfismo\bin\Debug\netcoreapp3.0\PoliMorfismo.exe
+C:\Users\Acer\source\repos\Fundamentos\PoliMorfismo\bin\Debug\netcoreapp3.0\PoliMorfismo.deps.json
+C:\Users\Acer\source\repos\Fundamentos\PoliMorfismo\bin\Debug\netcoreapp3.0\PoliMorfismo.runtimeconfig.json
+C:\Users\Acer\source\repos\Fundamentos\PoliMorfismo\bin\Debug\netcoreapp3.0\PoliMorfismo.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\Fundamentos\PoliMorfismo\bin\Debug\netcoreapp3.0\PoliMorfismo.dll
+C:\Users\Acer\source\repos\Fundamentos\PoliMorfismo\bin\Debug\netcoreapp3.0\PoliMorfismo.pdb
+C:\Users\Acer\source\repos\Fundamentos\PoliMorfismo\obj\Debug\netcoreapp3.0\PoliMorfismo.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Fundamentos\PoliMorfismo\obj\Debug\netcoreapp3.0\PoliMorfismo.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Fundamentos\PoliMorfismo\obj\Debug\netcoreapp3.0\PoliMorfismo.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Fundamentos\PoliMorfismo\obj\Debug\netcoreapp3.0\PoliMorfismo.dll
+C:\Users\Acer\source\repos\Fundamentos\PoliMorfismo\obj\Debug\netcoreapp3.0\PoliMorfismo.pdb

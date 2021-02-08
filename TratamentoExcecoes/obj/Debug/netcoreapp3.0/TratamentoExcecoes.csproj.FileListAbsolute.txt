@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\Fundamentos\TratamentoExcecoes\bin\Debug\netcoreapp3.0\TratamentoExcecoes.exe
+C:\Users\Acer\source\repos\Fundamentos\TratamentoExcecoes\bin\Debug\netcoreapp3.0\TratamentoExcecoes.deps.json
+C:\Users\Acer\source\repos\Fundamentos\TratamentoExcecoes\bin\Debug\netcoreapp3.0\TratamentoExcecoes.runtimeconfig.json
+C:\Users\Acer\source\repos\Fundamentos\TratamentoExcecoes\bin\Debug\netcoreapp3.0\TratamentoExcecoes.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\Fundamentos\TratamentoExcecoes\bin\Debug\netcoreapp3.0\TratamentoExcecoes.dll
+C:\Users\Acer\source\repos\Fundamentos\TratamentoExcecoes\bin\Debug\netcoreapp3.0\TratamentoExcecoes.pdb
+C:\Users\Acer\source\repos\Fundamentos\TratamentoExcecoes\obj\Debug\netcoreapp3.0\TratamentoExcecoes.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Fundamentos\TratamentoExcecoes\obj\Debug\netcoreapp3.0\TratamentoExcecoes.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Fundamentos\TratamentoExcecoes\obj\Debug\netcoreapp3.0\TratamentoExcecoes.dll
+C:\Users\Acer\source\repos\Fundamentos\TratamentoExcecoes\obj\Debug\netcoreapp3.0\TratamentoExcecoes.pdb
+C:\Users\Acer\source\repos\Fundamentos\TratamentoExcecoes\obj\Debug\netcoreapp3.0\TratamentoExcecoes.csprojAssemblyReference.cache

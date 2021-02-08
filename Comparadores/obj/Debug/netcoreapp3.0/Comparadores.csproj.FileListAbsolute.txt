@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\Fundamentos\Comparadores\bin\Debug\netcoreapp3.0\Comparadores.exe
+C:\Users\Acer\source\repos\Fundamentos\Comparadores\bin\Debug\netcoreapp3.0\Comparadores.deps.json
+C:\Users\Acer\source\repos\Fundamentos\Comparadores\bin\Debug\netcoreapp3.0\Comparadores.runtimeconfig.json
+C:\Users\Acer\source\repos\Fundamentos\Comparadores\bin\Debug\netcoreapp3.0\Comparadores.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\Fundamentos\Comparadores\bin\Debug\netcoreapp3.0\Comparadores.dll
+C:\Users\Acer\source\repos\Fundamentos\Comparadores\bin\Debug\netcoreapp3.0\Comparadores.pdb
+C:\Users\Acer\source\repos\Fundamentos\Comparadores\obj\Debug\netcoreapp3.0\Comparadores.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Fundamentos\Comparadores\obj\Debug\netcoreapp3.0\Comparadores.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Fundamentos\Comparadores\obj\Debug\netcoreapp3.0\Comparadores.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Fundamentos\Comparadores\obj\Debug\netcoreapp3.0\Comparadores.dll
+C:\Users\Acer\source\repos\Fundamentos\Comparadores\obj\Debug\netcoreapp3.0\Comparadores.pdb

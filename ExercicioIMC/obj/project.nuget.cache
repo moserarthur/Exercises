@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "oImAVytkp7rwgDkb/onV146kQJZ8LqLNcD4KFXDl1lHaeXU2LI8ggcxhvqXiVvLgDI5wKTgq34ejMcZY3OwP+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Raque\\Documents\\Fundamentos\\Fundamentos\\ExercicioIMC\\ExercicioIMC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Raque\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Raque\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Raque\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Raque\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

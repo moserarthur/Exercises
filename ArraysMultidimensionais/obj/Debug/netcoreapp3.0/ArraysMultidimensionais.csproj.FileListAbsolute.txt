@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\Fundamentos\ArraysMultidimensionais\bin\Debug\netcoreapp3.0\ArraysMultidimensionais.exe
+C:\Users\Acer\source\repos\Fundamentos\ArraysMultidimensionais\bin\Debug\netcoreapp3.0\ArraysMultidimensionais.deps.json
+C:\Users\Acer\source\repos\Fundamentos\ArraysMultidimensionais\bin\Debug\netcoreapp3.0\ArraysMultidimensionais.runtimeconfig.json
+C:\Users\Acer\source\repos\Fundamentos\ArraysMultidimensionais\bin\Debug\netcoreapp3.0\ArraysMultidimensionais.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\Fundamentos\ArraysMultidimensionais\bin\Debug\netcoreapp3.0\ArraysMultidimensionais.dll
+C:\Users\Acer\source\repos\Fundamentos\ArraysMultidimensionais\bin\Debug\netcoreapp3.0\ArraysMultidimensionais.pdb
+C:\Users\Acer\source\repos\Fundamentos\ArraysMultidimensionais\obj\Debug\netcoreapp3.0\ArraysMultidimensionais.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Fundamentos\ArraysMultidimensionais\obj\Debug\netcoreapp3.0\ArraysMultidimensionais.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Fundamentos\ArraysMultidimensionais\obj\Debug\netcoreapp3.0\ArraysMultidimensionais.dll
+C:\Users\Acer\source\repos\Fundamentos\ArraysMultidimensionais\obj\Debug\netcoreapp3.0\ArraysMultidimensionais.pdb
+C:\Users\Acer\source\repos\Fundamentos\ArraysMultidimensionais\obj\Debug\netcoreapp3.0\ArraysMultidimensionais.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\Fundamentos\ExemploContas\bin\Debug\netcoreapp3.0\ExemploContas.exe
+C:\Users\Acer\source\repos\Fundamentos\ExemploContas\bin\Debug\netcoreapp3.0\ExemploContas.deps.json
+C:\Users\Acer\source\repos\Fundamentos\ExemploContas\bin\Debug\netcoreapp3.0\ExemploContas.runtimeconfig.json
+C:\Users\Acer\source\repos\Fundamentos\ExemploContas\bin\Debug\netcoreapp3.0\ExemploContas.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\Fundamentos\ExemploContas\bin\Debug\netcoreapp3.0\ExemploContas.dll
+C:\Users\Acer\source\repos\Fundamentos\ExemploContas\bin\Debug\netcoreapp3.0\ExemploContas.pdb
+C:\Users\Acer\source\repos\Fundamentos\ExemploContas\obj\Debug\netcoreapp3.0\ExemploContas.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Fundamentos\ExemploContas\obj\Debug\netcoreapp3.0\ExemploContas.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Fundamentos\ExemploContas\obj\Debug\netcoreapp3.0\ExemploContas.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Fundamentos\ExemploContas\obj\Debug\netcoreapp3.0\ExemploContas.dll
+C:\Users\Acer\source\repos\Fundamentos\ExemploContas\obj\Debug\netcoreapp3.0\ExemploContas.pdb

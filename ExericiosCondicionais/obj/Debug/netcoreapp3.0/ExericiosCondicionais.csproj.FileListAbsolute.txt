@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\Fundamentos\ExericiosCondicionais\bin\Debug\netcoreapp3.0\ExericiosCondicionais.exe
+C:\Users\Acer\source\repos\Fundamentos\ExericiosCondicionais\bin\Debug\netcoreapp3.0\ExericiosCondicionais.deps.json
+C:\Users\Acer\source\repos\Fundamentos\ExericiosCondicionais\bin\Debug\netcoreapp3.0\ExericiosCondicionais.runtimeconfig.json
+C:\Users\Acer\source\repos\Fundamentos\ExericiosCondicionais\bin\Debug\netcoreapp3.0\ExericiosCondicionais.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\Fundamentos\ExericiosCondicionais\bin\Debug\netcoreapp3.0\ExericiosCondicionais.dll
+C:\Users\Acer\source\repos\Fundamentos\ExericiosCondicionais\bin\Debug\netcoreapp3.0\ExericiosCondicionais.pdb
+C:\Users\Acer\source\repos\Fundamentos\ExericiosCondicionais\obj\Debug\netcoreapp3.0\ExericiosCondicionais.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Fundamentos\ExericiosCondicionais\obj\Debug\netcoreapp3.0\ExericiosCondicionais.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Fundamentos\ExericiosCondicionais\obj\Debug\netcoreapp3.0\ExericiosCondicionais.dll
+C:\Users\Acer\source\repos\Fundamentos\ExericiosCondicionais\obj\Debug\netcoreapp3.0\ExericiosCondicionais.pdb
+C:\Users\Acer\source\repos\Fundamentos\ExericiosCondicionais\obj\Debug\netcoreapp3.0\ExericiosCondicionais.csprojAssemblyReference.cache

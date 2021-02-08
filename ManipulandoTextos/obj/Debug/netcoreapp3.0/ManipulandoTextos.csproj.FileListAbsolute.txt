@@ -1,0 +1,10 @@
+C:\Users\Acer\source\repos\Fundamentos\ManipulandoTextos\bin\Debug\netcoreapp3.0\ManipulandoTextos.exe
+C:\Users\Acer\source\repos\Fundamentos\ManipulandoTextos\bin\Debug\netcoreapp3.0\ManipulandoTextos.deps.json
+C:\Users\Acer\source\repos\Fundamentos\ManipulandoTextos\bin\Debug\netcoreapp3.0\ManipulandoTextos.runtimeconfig.json
+C:\Users\Acer\source\repos\Fundamentos\ManipulandoTextos\bin\Debug\netcoreapp3.0\ManipulandoTextos.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\Fundamentos\ManipulandoTextos\bin\Debug\netcoreapp3.0\ManipulandoTextos.dll
+C:\Users\Acer\source\repos\Fundamentos\ManipulandoTextos\bin\Debug\netcoreapp3.0\ManipulandoTextos.pdb
+C:\Users\Acer\source\repos\Fundamentos\ManipulandoTextos\obj\Debug\netcoreapp3.0\ManipulandoTextos.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Fundamentos\ManipulandoTextos\obj\Debug\netcoreapp3.0\ManipulandoTextos.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Fundamentos\ManipulandoTextos\obj\Debug\netcoreapp3.0\ManipulandoTextos.dll
+C:\Users\Acer\source\repos\Fundamentos\ManipulandoTextos\obj\Debug\netcoreapp3.0\ManipulandoTextos.pdb

@@ -1,0 +1,15 @@
+C:\Users\Acer\source\repos\Fundamentos\FormsCrud\bin\Debug\FormsCrud.exe.config
+C:\Users\Acer\source\repos\Fundamentos\FormsCrud\bin\Debug\FormsCrud.exe
+C:\Users\Acer\source\repos\Fundamentos\FormsCrud\bin\Debug\FormsCrud.pdb
+C:\Users\Acer\source\repos\Fundamentos\FormsCrud\obj\Debug\FormsCrud.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Fundamentos\FormsCrud\obj\Debug\FormsCrud.Form1.resources
+C:\Users\Acer\source\repos\Fundamentos\FormsCrud\obj\Debug\FormsCrud.Properties.Resources.resources
+C:\Users\Acer\source\repos\Fundamentos\FormsCrud\obj\Debug\FormsCrud.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\Fundamentos\FormsCrud\obj\Debug\FormsCrud.exe
+C:\Users\Acer\source\repos\Fundamentos\FormsCrud\obj\Debug\FormsCrud.pdb
+C:\Users\Raque\Documents\Fundamentos\Fundamentos\FormsCrud\obj\Debug\FormsCrud.csprojAssemblyReference.cache
+C:\Users\Raque\Documents\Fundamentos\Fundamentos\FormsCrud\obj\Debug\FormsCrud.Form1.resources
+C:\Users\Raque\Documents\Fundamentos\Fundamentos\FormsCrud\obj\Debug\FormsCrud.Properties.Resources.resources
+C:\Users\Raque\Documents\Fundamentos\Fundamentos\FormsCrud\obj\Debug\FormsCrud.csproj.GenerateResource.cache
+C:\Users\Raque\Documents\Fundamentos\Fundamentos\FormsCrud\obj\Debug\FormsCrud.exe
+C:\Users\Raque\Documents\Fundamentos\Fundamentos\FormsCrud\obj\Debug\FormsCrud.pdb

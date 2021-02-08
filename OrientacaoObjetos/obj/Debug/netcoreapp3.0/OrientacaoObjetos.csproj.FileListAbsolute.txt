@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\Fundamentos\OrientacaoObjetos\bin\Debug\netcoreapp3.0\OrientacaoObjetos.exe
+C:\Users\Acer\source\repos\Fundamentos\OrientacaoObjetos\bin\Debug\netcoreapp3.0\OrientacaoObjetos.deps.json
+C:\Users\Acer\source\repos\Fundamentos\OrientacaoObjetos\bin\Debug\netcoreapp3.0\OrientacaoObjetos.runtimeconfig.json
+C:\Users\Acer\source\repos\Fundamentos\OrientacaoObjetos\bin\Debug\netcoreapp3.0\OrientacaoObjetos.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\Fundamentos\OrientacaoObjetos\bin\Debug\netcoreapp3.0\OrientacaoObjetos.dll
+C:\Users\Acer\source\repos\Fundamentos\OrientacaoObjetos\bin\Debug\netcoreapp3.0\OrientacaoObjetos.pdb
+C:\Users\Acer\source\repos\Fundamentos\OrientacaoObjetos\obj\Debug\netcoreapp3.0\OrientacaoObjetos.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Fundamentos\OrientacaoObjetos\obj\Debug\netcoreapp3.0\OrientacaoObjetos.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Fundamentos\OrientacaoObjetos\obj\Debug\netcoreapp3.0\OrientacaoObjetos.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Fundamentos\OrientacaoObjetos\obj\Debug\netcoreapp3.0\OrientacaoObjetos.dll
+C:\Users\Acer\source\repos\Fundamentos\OrientacaoObjetos\obj\Debug\netcoreapp3.0\OrientacaoObjetos.pdb

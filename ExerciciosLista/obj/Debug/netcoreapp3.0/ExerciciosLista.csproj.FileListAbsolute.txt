@@ -1,0 +1,10 @@
+C:\Users\Acer\source\repos\Fundamentos\ExerciciosLista\bin\Debug\netcoreapp3.0\ExerciciosLista.exe
+C:\Users\Acer\source\repos\Fundamentos\ExerciciosLista\bin\Debug\netcoreapp3.0\ExerciciosLista.deps.json
+C:\Users\Acer\source\repos\Fundamentos\ExerciciosLista\bin\Debug\netcoreapp3.0\ExerciciosLista.runtimeconfig.json
+C:\Users\Acer\source\repos\Fundamentos\ExerciciosLista\bin\Debug\netcoreapp3.0\ExerciciosLista.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\Fundamentos\ExerciciosLista\bin\Debug\netcoreapp3.0\ExerciciosLista.dll
+C:\Users\Acer\source\repos\Fundamentos\ExerciciosLista\bin\Debug\netcoreapp3.0\ExerciciosLista.pdb
+C:\Users\Acer\source\repos\Fundamentos\ExerciciosLista\obj\Debug\netcoreapp3.0\ExerciciosLista.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Fundamentos\ExerciciosLista\obj\Debug\netcoreapp3.0\ExerciciosLista.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Fundamentos\ExerciciosLista\obj\Debug\netcoreapp3.0\ExerciciosLista.dll
+C:\Users\Acer\source\repos\Fundamentos\ExerciciosLista\obj\Debug\netcoreapp3.0\ExerciciosLista.pdb

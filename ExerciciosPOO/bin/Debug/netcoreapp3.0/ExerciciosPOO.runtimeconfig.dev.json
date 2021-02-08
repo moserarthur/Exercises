@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Raque\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Raque\\.nuget\\packages"
+    ]
+  }
+}

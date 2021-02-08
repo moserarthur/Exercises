@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\Fundamentos\Condicionais\bin\Debug\netcoreapp3.0\Condicionais.exe
+C:\Users\Acer\source\repos\Fundamentos\Condicionais\bin\Debug\netcoreapp3.0\Condicionais.deps.json
+C:\Users\Acer\source\repos\Fundamentos\Condicionais\bin\Debug\netcoreapp3.0\Condicionais.runtimeconfig.json
+C:\Users\Acer\source\repos\Fundamentos\Condicionais\bin\Debug\netcoreapp3.0\Condicionais.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\Fundamentos\Condicionais\bin\Debug\netcoreapp3.0\Condicionais.dll
+C:\Users\Acer\source\repos\Fundamentos\Condicionais\bin\Debug\netcoreapp3.0\Condicionais.pdb
+C:\Users\Acer\source\repos\Fundamentos\Condicionais\obj\Debug\netcoreapp3.0\Condicionais.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Fundamentos\Condicionais\obj\Debug\netcoreapp3.0\Condicionais.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Fundamentos\Condicionais\obj\Debug\netcoreapp3.0\Condicionais.dll
+C:\Users\Acer\source\repos\Fundamentos\Condicionais\obj\Debug\netcoreapp3.0\Condicionais.pdb
+C:\Users\Acer\source\repos\Fundamentos\Condicionais\obj\Debug\netcoreapp3.0\Condicionais.csprojAssemblyReference.cache

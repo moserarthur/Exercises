@@ -1,0 +1,10 @@
+C:\Users\Acer\source\repos\Fundamentos\ExercicioExceptions\bin\Debug\netcoreapp3.0\ExercicioExceptions.exe
+C:\Users\Acer\source\repos\Fundamentos\ExercicioExceptions\bin\Debug\netcoreapp3.0\ExercicioExceptions.deps.json
+C:\Users\Acer\source\repos\Fundamentos\ExercicioExceptions\bin\Debug\netcoreapp3.0\ExercicioExceptions.runtimeconfig.json
+C:\Users\Acer\source\repos\Fundamentos\ExercicioExceptions\bin\Debug\netcoreapp3.0\ExercicioExceptions.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\Fundamentos\ExercicioExceptions\bin\Debug\netcoreapp3.0\ExercicioExceptions.dll
+C:\Users\Acer\source\repos\Fundamentos\ExercicioExceptions\bin\Debug\netcoreapp3.0\ExercicioExceptions.pdb
+C:\Users\Acer\source\repos\Fundamentos\ExercicioExceptions\obj\Debug\netcoreapp3.0\ExercicioExceptions.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Fundamentos\ExercicioExceptions\obj\Debug\netcoreapp3.0\ExercicioExceptions.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Fundamentos\ExercicioExceptions\obj\Debug\netcoreapp3.0\ExercicioExceptions.dll
+C:\Users\Acer\source\repos\Fundamentos\ExercicioExceptions\obj\Debug\netcoreapp3.0\ExercicioExceptions.pdb
