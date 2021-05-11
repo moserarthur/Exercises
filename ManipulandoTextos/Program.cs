@@ -2,10 +2,7 @@
 
 namespace ManipulandoTextos
 {
-    /// <summary>
-    /// Autor:Gustavo Rosuaro
-    /// Utilizando a biblioteca system para manipulação de textos
-    /// </summary>
+
     class Program
     {
         static void Main(string[] args)
